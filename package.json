@@ -1,0 +1,22 @@
+{
+  "name": "repr.js",
+  "version": "0.1.0",
+  "description": "Function similar to Python's repr or Ruby's Object#inspect.",
+  "main": "repr.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jansegre/repr.js.git"
+  },
+  "keywords": [
+    "repr",
+    "inspect",
+    "str",
+    "escape"
+  ],
+  "author": "gfxmonk <tim@gfxmonk.net>",
+  "license": "No license",
+  "bugs": {
+    "url": "https://github.com/gfxmonk/repr.js/issues"
+  },
+  "homepage": "https://github.com/gfxmonk/repr.js"
+}
